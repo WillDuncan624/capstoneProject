@@ -1,0 +1,50 @@
+1,Max,Labrador,Section A,2024-02-06 10:30
+2,Bella,Beagle,Section B,2024-02-05 09:00
+3,Charlie,Golden Retriever,Section C,2024-02-04 15:45
+4,Luna,Husky,Section D,2024-02-03 12:15
+5,Rocky,German Shepherd,Section E,2024-02-02 14:30
+6,Daisy,Bulldog,Section F,2024-02-01 16:10
+7,Bailey,Boxer,Section A,2024-01-31 13:45
+8,Zoe,Chihuahua,Section B,2024-01-30 08:50
+9,Milo,Poodle,Section C,2024-01-29 10:05
+10,Maggie,Rottweiler,Section D,2024-01-28 09:20
+11,Oscar,Dachshund,Section E,2024-01-27 17:40
+12,Cooper,Border Collie,Section F,2024-01-26 18:25
+13,Lucy,Siberian Husky,Section A,2024-01-25 07:30
+14,Ruby,Shiba Inu,Section B,2024-01-24 15:50
+15,Tucker,Cocker Spaniel,Section C,2024-01-23 12:05
+16,Willow,Maltese,Section D,2024-01-22 11:45
+17,Dexter,Basset Hound,Section E,2024-01-21 10:00
+18,Rosie,Papillon,Section F,2024-01-20 14:15
+19,Jack,Chow Chow,Section A,2024-01-19 13:35
+20,Penny,Belgian Malinois,Section B,2024-01-18 08:45
+21,Hunter,Great Dane,Section C,2024-01-17 17:25
+22,Sadie,Newfoundland,Section D,2024-01-16 16:50
+23,Jasper,Akita,Section E,2024-01-15 14:10
+24,Benny,Australian Shepherd,Section F,2024-01-14 09:40
+25,Moose,St. Bernard,Section A,2024-01-13 18:00
+26,Loki,American Pit Bull Terrier,Section B,2024-01-12 11:30
+27,Hazel,Bernese Mountain Dog,Section C,2024-01-11 10:20
+28,Simba,Borzoi,Section D,2024-01-10 07:15
+29,Olive,Weimaraner,Section E,2024-01-09 15:30
+30,Gizmo,Pomeranian,Section F,2024-01-08 09:00
+31,Bruce,Whippet,Section A,2024-01-07 12:45
+32,Charlie,Doberman Pinscher,Section B,2024-01-06 14:40
+33,Annie,Alaskan Malamute,Section C,2024-01-05 16:10
+34,Finley,Samoyed,Section D,2024-01-04 13:55
+35,Ziggy,Miniature Schnauzer,Section E,2024-01-03 07:40
+36,Phoebe,Chinese Crested,Section F,2024-01-02 10:35
+37,Maddie,Lagotto Romagnolo,Section A,2024-01-01 18:20
+38,Buster,Cane Corso,Section B,2023-12-31 14:10
+39,Holly,Irish Setter,Section C,2023-12-30 11:55
+40,Rex,Boerboel,Section D,2023-12-29 08:25
+41,Layla,Saluki,Section E,2023-12-28 16:50
+42,Bruiser,Tibetan Mastiff,Section F,2023-12-27 13:40
+43,Nala,Collie,Section A,2023-12-26 15:15
+44,Zeus,Scottish Terrier,Section B,2023-12-25 10:20
+45,Shadow,Dogo Argentino,Section C,2023-12-24 18:35
+46,Bailey,Plott Hound,Section D,2023-12-23 12:50
+47,Cleo,Shih Tzu,Section E,2023-12-22 14:45
+48,Louie,English Foxhound,Section F,2023-12-21 09:30
+49,Duke,Pointer,Section A,2023-12-20 08:15
+50,Ruby,Schipperke,Section B,2023-12-19 11:40
