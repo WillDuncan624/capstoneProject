@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Capstone Milestone 1" />
+    <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Capstone Milestone 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WillDuncan624&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WillDuncan624/capstoneProject.git&quot;,
+    &quot;accountId&quot;: &quot;fa524087-f9c2-48ea-b640-a5b1ed2c0fb9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -57,7 +71,10 @@
       <updated>1738982612586</updated>
       <workItem from="1738982613765" duration="4686000" />
       <workItem from="1739058417779" duration="164000" />
-      <workItem from="1739058681575" duration="754000" />
+      <workItem from="1739058681575" duration="1205000" />
+      <workItem from="1739195217252" duration="110000" />
+      <workItem from="1739287445117" duration="125000" />
+      <workItem from="1741201686840" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="Capstone Milestone 1">
       <option name="closed" value="true" />
@@ -75,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739058697248</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Capstone Milestone 1">
+      <option name="closed" value="true" />
+      <created>1739059555207</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739059555207</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,16 +109,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Capstone Milestone 1" />
     <option name="LAST_COMMIT_MESSAGE" value="Capstone Milestone 1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DogWalkingSystem.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
