@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Capstone Milestone 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DogWalkingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dogs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/volunteers.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -75,6 +92,18 @@
       <workItem from="1739195217252" duration="110000" />
       <workItem from="1739287445117" duration="125000" />
       <workItem from="1741201686840" duration="799000" />
+      <workItem from="1741370364980" duration="412000" />
+      <workItem from="1741370791748" duration="13000" />
+      <workItem from="1741370828118" duration="61000" />
+      <workItem from="1741371014451" duration="136000" />
+      <workItem from="1741371161838" duration="18000" />
+      <workItem from="1741371213907" duration="144000" />
+      <workItem from="1741371518334" duration="25000" />
+      <workItem from="1741371673485" duration="14000" />
+      <workItem from="1741372242418" duration="6000" />
+      <workItem from="1741372266619" duration="63000" />
+      <workItem from="1741372382244" duration="20000" />
+      <workItem from="1741372435747" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="Capstone Milestone 1">
       <option name="closed" value="true" />
@@ -100,11 +129,30 @@
       <option name="project" value="LOCAL" />
       <updated>1739059555207</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Capstone Milestone 1">
+      <option name="closed" value="true" />
+      <created>1741370480128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741370480128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Capstone Milestone 1" />
