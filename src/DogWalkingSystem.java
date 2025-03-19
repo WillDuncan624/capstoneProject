@@ -112,6 +112,6 @@ public class DogWalkingSystem {
     }
 
     private static void updateLastWalkTime(int dogId, LocalDateTime newTime) {
-
+        //use
     }
 }
