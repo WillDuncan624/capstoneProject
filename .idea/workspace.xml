@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Capstone Milestone 1">
+      <change afterPath="$PROJECT_DIR$/src/walk_logs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DogWalkingSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dogs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/volunteers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DogWalkingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DogWalkingSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +103,10 @@
       <workItem from="1741372266619" duration="63000" />
       <workItem from="1741372382244" duration="20000" />
       <workItem from="1741372435747" duration="27000" />
+      <workItem from="1742407443809" duration="169000" />
+      <workItem from="1742409257538" duration="271000" />
+      <workItem from="1742410005941" duration="12000" />
+      <workItem from="1742866047960" duration="1646000" />
     </task>
     <task id="LOCAL-00001" summary="Capstone Milestone 1">
       <option name="closed" value="true" />
