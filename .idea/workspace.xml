@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Capstone Milestone 1">
-      <change afterPath="$PROJECT_DIR$/src/walk_logs.txt" afterDir="false" />
+    <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Milestone 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DogWalkingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DogWalkingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dogs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dogs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/volunteers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/volunteers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walk_logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/walk_logs.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +108,13 @@
       <workItem from="1742407443809" duration="169000" />
       <workItem from="1742409257538" duration="271000" />
       <workItem from="1742410005941" duration="12000" />
-      <workItem from="1742866047960" duration="1646000" />
+      <workItem from="1742866047960" duration="1954000" />
+      <workItem from="1742939272872" duration="354000" />
+      <workItem from="1743618706198" duration="328000" />
+      <workItem from="1743621994237" duration="3622000" />
+      <workItem from="1743718770283" duration="3380000" />
+      <workItem from="1743777295328" duration="1239000" />
+      <workItem from="1743779903069" duration="6531000" />
     </task>
     <task id="LOCAL-00001" summary="Capstone Milestone 1">
       <option name="closed" value="true" />
@@ -140,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741370480128</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Milestone 2">
+      <option name="closed" value="true" />
+      <created>1742870297669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742870297670</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Capstone Milestone 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Capstone Milestone 1" />
+    <MESSAGE value="Milestone 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Milestone 2" />
   </component>
 </project>

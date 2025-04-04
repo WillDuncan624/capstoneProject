@@ -102,3 +102,4 @@ Wyatt Henderson,9028
 Ximena Edwards,7825
 Yasmine Richardson,6093
 Zeke Foster,8421
+Will Duncan,2345
