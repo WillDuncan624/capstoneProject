@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Milestone 2">
+    <list default="true" id="044e3057-8446-44b8-90c5-fc7edabb15aa" name="Changes" comment="Milestone 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DogWalkingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DogWalkingSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dogs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dogs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/volunteers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/volunteers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walk_logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/walk_logs.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.DogWalkingSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCode.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -114,7 +114,27 @@
       <workItem from="1743621994237" duration="3622000" />
       <workItem from="1743718770283" duration="3380000" />
       <workItem from="1743777295328" duration="1239000" />
-      <workItem from="1743779903069" duration="6531000" />
+      <workItem from="1743779903069" duration="8182000" />
+      <workItem from="1743789506249" duration="3905000" />
+      <workItem from="1743980679130" duration="939000" />
+      <workItem from="1743981866776" duration="3965000" />
+      <workItem from="1744050815724" duration="41000" />
+      <workItem from="1744506234676" duration="1588000" />
+      <workItem from="1744853208814" duration="1130000" />
+      <workItem from="1744854446356" duration="6000" />
+      <workItem from="1744854822966" duration="9000" />
+      <workItem from="1745033051299" duration="76000" />
+      <workItem from="1745033141491" duration="347000" />
+      <workItem from="1745360374027" duration="1548000" />
+      <workItem from="1745362136648" duration="13000" />
+      <workItem from="1745363021557" duration="171000" />
+      <workItem from="1745373403938" duration="43000" />
+      <workItem from="1745378670216" duration="38000" />
+      <workItem from="1745431048490" duration="123000" />
+      <workItem from="1745431435629" duration="528000" />
+      <workItem from="1745446189715" duration="3402000" />
+      <workItem from="1745505713345" duration="13484000" />
+      <workItem from="1745604200333" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="Capstone Milestone 1">
       <option name="closed" value="true" />
@@ -156,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742870297670</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Milestone 3">
+      <option name="closed" value="true" />
+      <created>1743787347522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743787347522</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +204,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Capstone Milestone 1" />
     <MESSAGE value="Milestone 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Milestone 2" />
+    <MESSAGE value="Milestone 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Milestone 3" />
   </component>
 </project>
